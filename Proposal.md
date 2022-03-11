@@ -15,4 +15,4 @@ We chose the the World Happiness Report as our inital data file. The fields of i
 - Mary Olaitan: happiness csv extraction + transformation
 - Neil Tipton: alcohol&substance csv extraction + transformation
 - Daniel Garza: tobacco15+ csv extraction + transformation
-
+- Kristen Wilder: technical report 
