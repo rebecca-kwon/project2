@@ -20,10 +20,10 @@
 - Database SQL File: Happiness_HealthStats.sql
 - Database SQL ERD File: Happiness_HealthStats_ERD.sql
 - Data_Export_Transform: contains data export/transform jupyter notebooks 
-      - NeilT.ipynb
-      - TobaccoAge15.ipynb
-      - World_Happiness_data.ipynb
+  - NeilT.ipynb
+  - TobaccoAge15.ipynb
+  - World_Happiness_data.ipynb
 - resources: 
-      - Raw data files 
-      - Cleaned/Transformed data files 
-      - ERD.jpg
+  - Raw data files 
+  - Cleaned/Transformed data files 
+  - ERD.jpg
